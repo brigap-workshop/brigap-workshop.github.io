@@ -39,4 +39,5 @@ The workshop chairs are:
 - Timothée Bernard, Université Paris Cité,
 - Timothee Mickus, University of Helsinki,
 - Grégoire Winterstein, Université du Québec à Montréal.
+
 They can be reached via __brigapworkshop@gmail.com__.
