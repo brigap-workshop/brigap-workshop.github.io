@@ -34,7 +34,9 @@ The submissions need to be done in DF format via OpenReview, using the following
 - Notification of acceptance: Friday, August 1st 2025
 - Workshop: September 24th, 2025 (main conference: 22nd-23rd)
 
-For questions, please contact one of the workshop chairs:
-- Timothée Bernard, Université Paris Cité, timothee.bernard@u-paris.fr
-- Timothee Mickus, University of Helsinki, timothee.mickus@helsinki.fi
-- Grégoire Winterstein, Université du Québec à Montréal, winterstein.gregoire@uqam.ca
+### Contact
+The workshop chairs are:
+- Timothée Bernard, Université Paris Cité,
+- Timothee Mickus, University of Helsinki,
+- Grégoire Winterstein, Université du Québec à Montréal.
+They can be reached via __brigapworkshop@gmail.com__.
