@@ -27,7 +27,7 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 The workshop accepts both archival (original and unpublished research) and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in either short (up to 4 pages) or long (up to 8 pages) format. Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account. 
 Each submission should mention whether it targets archival or non-archival status. Archival papers accepted at BriGap-2 will be indexed in the ACL Anthology.
 Please use the ACL style templates available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)  
-The submissions need to be done in DF format via OpenReview, using the following link: TBA
+The submissions need to be done in PDF format via OpenReview, using the following link: [https://openreview.net/group?id=IWCS/2025/Workshop/BriGap-2](https://openreview.net/group?id=IWCS/2025/Workshop/BriGap-2)
 
 ### Important dates
 - Submission deadline: Friday, June 6th 2025
