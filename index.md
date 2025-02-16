@@ -28,6 +28,7 @@ The workshop accepts both archival (original and unpublished research) and non-a
 Each submission should mention whether it targets archival or non-archival status. Archival papers accepted at BriGap-2 will be indexed in the ACL Anthology.
 Please use the ACL style templates available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)  
 The submissions need to be done in PDF format via OpenReview, using the following link: [https://openreview.net/group?id=IWCS/2025/Workshop/BriGap-2](https://openreview.net/group?id=IWCS/2025/Workshop/BriGap-2)
+Please be aware that to submit on OpenReview, you need an OpenReview profile, and that the activation process might take up to two weeks (in case you do not use an institutional email).
 
 ### Important dates
 - Submission deadline: Friday, June 6th 2025
