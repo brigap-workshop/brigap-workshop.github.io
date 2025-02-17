@@ -1,7 +1,6 @@
-### Important dates
-- Submission deadline: Friday, June 6th 2025
-- Notification of acceptance: Friday, August 1st 2025
-- Workshop: September 24th, 2025 (main conference: 22nd-23rd)
+# Program committee
+
+This page summarizes information about our organization and program committee.
 
 ### Workshop chairs
 - Timothée Bernard, Université Paris Cité,
