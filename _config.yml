@@ -5,5 +5,4 @@ plugins:
 title: BriGap-2
 description: The Second Workshop on Bridges and Gaps between Formal and Computational Linguistics
 
-github:
-  private: true
+show_downloads: false
