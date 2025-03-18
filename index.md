@@ -55,6 +55,7 @@ They can be reached via __brigapworkshop@gmail.com__.
 - Kees van Deemter
 - Guy Emerson
 - Katrin Erk
+- Meaghan Fowlie
 - Richard Futrell
 - Juan Luis Gastaldi
 - Aurelie Herbelot
