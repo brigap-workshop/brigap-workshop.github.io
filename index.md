@@ -6,6 +6,12 @@
 
 _BriGap-2 is a venue for linguists and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
 
+**The workshop is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
+In particular, we will accept:
+- **Archival submissions,** corresponding to novel and unpublished research, to be included in the workshop proceedings,
+- **Non-archival submissions,** corresponding to work in progress and early results,
+- **Dissemination submissions,** aticles presented in other venues that engage with the topics of the workshop.
+
 ### Description
 In recent years, the natural language processing (NLP) community has shifted its focus towards engineering questions. This state of affairs is in no small part due to the recent technical advances that have transformed NLP as a field. In the current large language model (LLM) era, much of what was deemed near impossible to achieve a few years prior is now taken for granted and it stands to reason that mapping how far ahead new computational models have advanced the field has become a central topic for the NLP community. Hence, the current ongoing discourse in NLP focuses more on what can be achieved through language rather than studying language for its own sake. It seems thus that computational and formal linguistics are now separate domains, and that the former is no longer rooted in the latter.
 To what extent are these traditions truly divorced, and what fruitful bridges can be (re)built? To answer these questions, the second iteration of the workshop on Bridges and Gaps between Formal and Computational Linguistics (BriGap-2) intends to provide a space for formal linguists, computational linguists, and NLP scientists to exchange their perspectives on how their different domains of research can build upon one another.
