@@ -73,3 +73,8 @@ They can be reached via __brigapworkshop@gmail.com__.
 - Noortje Venhuizen
 - Guillaume Wisniewski
 - Olga Zamaraeva
+
+## LIFT2
+The BriGap-2 workshop is funded by [RT LIFT2](https://gdr-lift.loria.fr/), a France-based research group aiming to bring together researchers in computational linguistics, formal linguistics, and field linguistics around shared questions, data, and tools.
+
+More on the [About page](about.md).
