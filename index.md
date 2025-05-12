@@ -10,7 +10,7 @@ _BriGap-2 is a venue for linguists and NLP scientists to meet: what fruitful int
 In particular, we will accept:
 - **Archival submissions,** corresponding to novel and unpublished research, to be included in the workshop proceedings,
 - **Non-archival submissions,** corresponding to work in progress and early results,
-- **Dissemination submissions,** aticles presented in other venues that engage with the topics of the workshop.
+- **Dissemination submissions,** articles presented in other venues that engage with the topics of the workshop.
 
 ### Description
 In recent years, the natural language processing (NLP) community has shifted its focus towards engineering questions. This state of affairs is in no small part due to the recent technical advances that have transformed NLP as a field. In the current large language model (LLM) era, much of what was deemed near impossible to achieve a few years prior is now taken for granted and it stands to reason that mapping how far ahead new computational models have advanced the field has become a central topic for the NLP community. Hence, the current ongoing discourse in NLP focuses more on what can be achieved through language rather than studying language for its own sake. It seems thus that computational and formal linguistics are now separate domains, and that the former is no longer rooted in the latter.
