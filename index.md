@@ -37,8 +37,8 @@ The submissions need to be done in PDF format via OpenReview, using the followin
 Please be aware that to submit on OpenReview, you need an OpenReview profile, and that the activation process might take up to two weeks (in case you do not use an institutional email).
 
 ### Important dates
-- Submission deadline: ~~Friday, June 6th 2025~~ Friday, June 13th 2025
-- Notification of acceptance: Friday, August 1st 2025
+- Submission deadline: ~~Friday, June 6th 2025~~ ~~Friday, June 13th 2025~~ Sunday, June 15th, 2025, AoE
+- Notification of acceptance: ~~Friday, August 1st 2025~~ Friday, August 8th 2025
 - Workshop: September 24th, 2025 (main conference: 22nd-23rd)
 
 ### Contact
