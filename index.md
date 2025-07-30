@@ -36,9 +36,13 @@ Please use the ACL style templates available here: [https://github.com/acl-org/a
 The submissions need to be done in PDF format via OpenReview, using the following link: [https://openreview.net/group?id=IWCS/2025/Workshop/BriGap-2](https://openreview.net/group?id=IWCS/2025/Workshop/BriGap-2)
 Please be aware that to submit on OpenReview, you need an OpenReview profile, and that the activation process might take up to two weeks (in case you do not use an institutional email).
 
+The camera-ready version allows one additional page to address reviewers' comments.
+That is, short and long papers may be up to 5-page and 9-page long respectively.
+
 ### Important dates
 - Submission deadline: ~~Friday, June 6th 2025~~ ~~Friday, June 13th 2025~~ Sunday, June 15th, 2025, AoE
 - Notification of acceptance: ~~Friday, August 1st 2025~~ Friday, August 8th 2025
+- Camera-ready deadline (for archival submisions only): Thurstday, August 21st 2025
 - Workshop: September 24th, 2025 (main conference: 22nd-23rd)
 
 ### Contact
