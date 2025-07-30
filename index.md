@@ -41,7 +41,7 @@ That is, short and long papers may be up to 5-page and 9-page long respectively.
 
 ### Important dates
 - Submission deadline: ~~Friday, June 6th 2025~~ ~~Friday, June 13th 2025~~ Sunday, June 15th, 2025, AoE
-- Notification of acceptance: ~~Friday, August 1st 2025~~ Friday, August 8th 2025
+- Notification of acceptance: ~~Friday, August 1st 2025~~ Tuesday, July 29th 2025
 - Camera-ready deadline (for archival submisions only): Thursday, August 21st 2025
 - Workshop: September 24th, 2025 (main conference: 22nd-23rd)
 
