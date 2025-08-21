@@ -61,14 +61,11 @@ They can be reached via __brigapworkshop@gmail.com__.
 - Chloé Braud
 - Canaan Breiss
 - Tommi Buder-Gröndahl
-- Lisa Bylinina
 - Maria Copot
 - Benoît Crabbé
 - Isabelle Dautriche
 - Kees van Deemter
-- Guy Emerson
 - Katrin Erk
-- Meaghan Fowlie
 - Richard Futrell
 - Juan Luis Gastaldi
 - Aurelie Herbelot
@@ -82,9 +79,6 @@ They can be reached via __brigapworkshop@gmail.com__.
 - Denis Paperno
 - Christopher Potts
 - Christian Retoré
-- Kenny Smith
-- Mark Steedman
-- Noortje Venhuizen
 - Guillaume Wisniewski
 - Olga Zamaraeva
 
