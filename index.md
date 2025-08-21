@@ -57,9 +57,12 @@ They can be reached via __brigapworkshop@gmail.com__.
 - Lasha Abzianidze
 - Pascal Amsili
 - Carolyn Jane Anderson
+- Olivier Bonami
 - Chloé Braud
 - Canaan Breiss
+- Tommi Buder-Gröndahl
 - Lisa Bylinina
+- Maria Copot
 - Benoît Crabbé
 - Isabelle Dautriche
 - Kees van Deemter
@@ -75,6 +78,7 @@ They can be reached via __brigapworkshop@gmail.com__.
 - Tal Linzen
 - Marie-Catherine de Marneffe
 - Koji Mineshima
+- Teruyuki Mizuno
 - Denis Paperno
 - Christopher Potts
 - Christian Retoré
