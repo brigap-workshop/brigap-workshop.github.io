@@ -1,3 +1,6 @@
+read https://github.com/rycolab/aclpub2
+maybe also read https://acl-org.github.io/ACLPUB/anthology.html
+
 add sponsor_logos/lift2.png (otherwise, edit sponsors.yml)
 update or delete invited_talks.yml (this is optional)
 
