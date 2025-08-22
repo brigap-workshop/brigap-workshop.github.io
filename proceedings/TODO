@@ -1,5 +1,5 @@
 read https://github.com/rycolab/aclpub2
-maybe also read https://acl-org.github.io/ACLPUB/anthology.html
+read https://acl-org.github.io/ACLPUB/anthology.html
 
 add sponsor_logos/lift2.png (otherwise, edit sponsors.yml)
 update or delete invited_talks.yml (this is optional)
@@ -11,3 +11,5 @@ puis mettre à jour papers.yml dans le dossier principal
 aclpub2/openreview/or2program_committee.py (see README.txt)
 make sure we do have all actual reviewers (listed here: https://brigap-workshop.github.io/program-committee)
 puis mettre à jour program_committee.yml dans le dossier principal
+
+However, "aclpub2 unfortunately only seems to generate the PDFs, not the bibtex or meta files" required as described here: https://acl-org.github.io/ACLPUB/anthology.html.
