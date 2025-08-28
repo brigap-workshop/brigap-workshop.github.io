@@ -18,18 +18,16 @@
     last_name: Tomita
     name: Asa Tomita
     username: ~Asa_Tomita1
-  - emails: matsubara.mai@is.ocha.ac.jp
-    first_name: matsubara.mai@is.ocha.ac.jp
-    institution: NA
-    last_name: matsubara.mai@is.ocha.ac.jp
-    name: matsubara.mai@is.ocha.ac.jp
-    username: matsubara.mai@is.ocha.ac.jp
-  - emails: daido.hinari@is.ocha.ac.jp
-    first_name: daido.hinari@is.ocha.ac.jp
-    institution: NA
-    last_name: daido.hinari@is.ocha.ac.jp
-    name: daido.hinari@is.ocha.ac.jp
-    username: daido.hinari@is.ocha.ac.jp
+  - emails: '****@is.ocha.ac.jp'
+    first_name: Mai
+    institution: Ochanomizu University
+    last_name: Matsubara
+    name: Mai Matsubara
+  - emails: '****@is.ocha.ac.jp'
+    first_name: Hinari
+    institution: Ochanomizu University
+    last_name: Daido
+    name: Hinari Daido
   - dblp_id: https://dblp.org/pid/52/46
     emails: '****@is.ocha.ac.jp'
     first_name: Daisuke
@@ -190,58 +188,6 @@
   pdf_file: f89d274a2b9292ba42412935b5f982e02ab3be89.pdf
   title: 'Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic
     Assessments'
-- abstract: This paper presents our work in progress on devising a developmentally
-    inspired, syntax-based curriculum for small-scale language model training. While
-    developmental approaches to curriculum learning (CL) in Natural Language Processing
-    (NLP) have been explored before, prior work has been limited in corpora analysis
-    and curriculum quantification. We present the most comprehensive effort to date
-    to analyze child-directed speech through syntactic patterns, as the former studies
-    focused on either specific constructions or age groups. Our current contributions
-    include a toolkit for organizing syntactically annotated datasets into 13 syntactic
-    categories, and a dataset of six corpora reorganized according to a developmental
-    curriculum. Our future work will focus on investigating the effect of this curriculum
-    on language modeling performance.
-  attributes:
-    paper_type: N/A
-    presentation_type: N/A
-    submitted_area: ''
-  authors:
-  - emails: '****@itu.dk'
-    first_name: Arzu
-    homepage: https://pure.itu.dk/en/persons/arzu-burcu-güven
-    last_name: Güven
-    middle_name: Burcu
-    name: Arzu Burcu Güven
-    orcid: https://orcid.org/0009-0008-3905-2840
-    username: ~Arzu_Burcu_Güven1
-  - dblp_id: https://dblp.org/pid/184/8526
-    emails: '****@live.nl'
-    first_name: Rob
-    google_scholar_id: https://scholar.google.com/citations?user=lU4zpOEAAAAJ&hl=nl
-    homepage: https://robvanderg.github.io/
-    institution: IT University of Copenhagen
-    last_name: Goot
-    middle_name: Van Der
-    name: Rob van der Goot
-    semantic_scholar_id: https://www.semanticscholar.org/author/Rob-van-der-Goot/3449407
-    username: ~Rob_van_der_Goot1
-  - dblp_id: https://dblp.org/pid/203/9462
-    emails: '****@itu.dk'
-    first_name: Anna
-    google_scholar_id: https://scholar.google.com/citations?user=5oCYOE0AAAAJ&hl=en
-    homepage: https://annargrs.github.io
-    institution: IT University of Copenhagen
-    last_name: Rogers
-    name: Anna Rogers
-    orcid: https://orcid.org/0000-0002-4845-4023
-    semantic_scholar_id: https://www.semanticscholar.org/author/Anna-Rogers/145046059
-    username: ~Anna_Rogers1
-  decision: BriGap-2
-  file: 13.pdf
-  id: 13
-  openreview_id: Jl6G3EHB6n
-  pdf_file: 22637d7ed0cb0076370051a056c0e5564da0aa1a.pdf
-  title: Towards Developmentally Motivated Curriculum Learning for Language Models
 - abstract: The aim of this paper is to present a case study of a fruitful and, hopefully,
     inspiring interaction between formal and computational linguistics. A variety
     of NLP tools and resources have been used in linguistic investigations of the
@@ -276,7 +222,7 @@
   file: 14.pdf
   id: 14
   openreview_id: X70wChoRYz
-  pdf_file: 9bd430b798f181d2bedae6115312b4cdcfd8fd5c.pdf
+  pdf_file: 7cbf9a9f3bdef6f0eb05d4e894aa96a71f726139.pdf
   title: Coordination of Theoretical and Computational Linguistics
 - abstract: This paper presents a computational resource for exploring semantic parsing
     and reasoning through a strictly formal lense. Inspired by the framework of Lexical
@@ -346,7 +292,7 @@
     name: Lukas Mielczarek
     username: ~Lukas_Mielczarek1
   - dblp_id: https://dblp.org/pid/185/5507
-    emails: timothee.bernard@ens-lyon.org
+    emails: '****@ens-lyon.org'
     first_name: Timothée
     google_scholar_id: https://scholar.google.fr/citations?user=S3dtSYQAAAAJ
     homepage: https://vantot.gitlab.io/website/
@@ -389,31 +335,31 @@
   pdf_file: 788c1c26d6e87fc9c0a90c4eda0f25782c0f0a10.pdf
   title: Modelling Expectation-based and Memory-based Predictors of Human Reading
     Times with Syntax-guided Attention
-- abstract: 'Large Language Models (LLMs) demonstrate remarkable linguistic capabilities
+- abstract: 'Large language models (LLMs) demonstrate remarkable linguistic capabilities
     but lack explicit syntactic knowledge grounded in formal grammatical theory. This
-    paper introduces a syntax-guided parameter-efficient fine-tuning approach that
-    integrates formal syntactic constraints into transformer-based models using Low-Rank
-    Adaptation (LoRA). We develop a hybrid training objective incorporating violations
-    of syntactic well-formedness derived from dependency parsing and context-free
-    grammar constraints. Our method is evaluated on established syntactic benchmarks
-    including BLiMP, CoLA, and SyntaxGym targeting specific grammatical phenomena.
-    Results show consistent improvements in syntactic competence: 7.3\% average improvement
-    on BLiMP overall, with particularly strong gains of 9.5\% on agreement phenomena
-    and filler-gap dependencies, alongside 5.8\% improvement on CoLA MCC scores, while
-    maintaining performance on general NLP tasks. The parameter-efficient approach
-    reduces training time by 77\% compared to full fine-tuning while achieving substantial
-    syntactic gains. This work demonstrates a practical pathway for incorporating
-    linguistic theory into modern NLP systems, yielding more interpretable and grammatically
-    robust language models.'
+    paper introduces a syntax-guided parameter-efficient fine-tuning approach\footnote{\url{https://github.com/TransformerTitan/SyntaxGuidedPEFT}}
+    that integrates formal syntactic constraints into transformer-based models using
+    Low-Rank Adaptation (LoRA). We develop a hybrid training objective incorporating
+    violations of syntactic well-formedness derived from dependency parsing and context-free
+    grammar constraints. Our method is evaluated on established English syntactic
+    benchmarks including BLiMP, CoLA, and SyntaxGym targeting specific grammatical
+    phenomena. Results show modest but consistent improvements in syntactic competence:
+    1.6 percentage point average improvement on BLiMP overall, with gains of 1.7 percentage
+    points on agreement phenomena and 1.6 percentage points on filler-gap dependencies,
+    alongside 0.006 improvement in CoLA MCC scores, while maintaining stable performance
+    on general natural language processing (NLP) tasks. The parameter-efficient approach
+    reduces training time by 76\% compared to full fine-tuning while achieving these
+    incremental syntactic gains. This work demonstrates a practical pathway for incorporating
+    linguistic theory into modern natural language processing (NLP) systems, though
+    the improvements suggest that explicit syntactic supervision provides limited
+    additional benefits over implicit learning from large-scale text.'
   attributes:
     paper_type: N/A
     presentation_type: N/A
     submitted_area: ''
   authors:
   - emails: '****@gmail.com'
-    first_name: Prasanth
-    google_scholar_id: https://scholar.google.com/citations?view_op=list_works&hl=en&user=saNs5hEAAAAJ&gmla=AFix5MaMd2md5pK3wbzalZB96rdnm9BiwOfZpRSZi8mh4c6GsUJ2f5IrWcbZSKDwi3a7t7zlfcdyAs-SsigzI93EktSPGdC7DtAmLhPzaaM&sciund=15188482945741840010
-    institution: R V College of Engineering
+    first_name: ''
     last_name: Prasanth
     name: Prasanth
     username: ~Prasanth1
@@ -421,9 +367,8 @@
   file: 18.pdf
   id: 18
   openreview_id: DYxMvM2Tjf
-  pdf_file: c895530665161ad0b1ae346955a4012eb09ccd09.pdf
-  title: 'Syntax-Guided Parameter Efficient Fine-Tuning: Integrating Formal Grammatical
-    Constraints into Language Models'
+  pdf_file: d8ed69613cbd6850ac7c65e01ba3ac0d32a5c930.pdf
+  title: Syntax-Guided Parameter Efficient Fine-Tuning of Large Language Models
 - abstract: We investigate the impact of center embedding and selectional restrictions
     on neural latent tree models' tendency to induce self-embedding structures. To
     this aim we compare their behavior in different controlled artificial environments
@@ -457,16 +402,24 @@
   pdf_file: 742b3e6a7066c84a40dbcee22c281df2994ccb8d.pdf
   title: On the relative impact of categorical and semantic information on the induction
     of self-embedding structures
-- abstract: Human communications make frequent use of plural predications. Plural
-    sentences have been observed to be highly ambiguous. There are many theoretical
-    and experimental studies on the nature and logic of plurality in linguistics and
-    philosophy. In this paper, we investigate two lexical aspects of predicates which
-    influence the resolution of plural ambiguity from the novel perspective of the
-    predictions of large language models (LLMs), in particular, BERT and GPT-2. The
-    results of our models differ from the results gained from human experiments. While
-    human language users have certain bias in their interpretation of plural sentences,
-    the biases are not prominent in the language models we looked at. By the end of
-    the paper, we discuss some potential implications of the results.
+- abstract: 'Human communication routinely relies on plural predication, and plural
+    sentences are often ambiguous (see, e.g., Scha, 1984; Dalrymple et al., 1998a,
+    to name a few). Building on extensive theoretical and experimental work in linguistics
+    and philosophy, we ask whether large language models (LLMs) exhibit the same interpretive
+    biases that humans show when resolving plural ambiguity. We focus on two lexical
+    factors: (i) the collective bias of certain predicates (e.g., size/shape adjectives)
+    and (ii) the symmetry bias of predicates. To probe these tendencies, we apply
+    two complementary methods to premise–hypothesis pairs: an embedding-based heuristic
+    using OpenAI’s text-embedding-3-large/small (OpenAI, 2024, 2025) with cosine similarity,
+    and supervised NLI models (bart-large-mnli, roberta-large-mnli) (Lewis et al.,
+    2020; Liu et al., 2019; Williams et al., 2018a; Facebook AI, 2024b,a) that yield
+    asymmetric, calibrated entailment probabilities. Results show partial sensitivity
+    to predicate-level distinctions, but neither method reproduces the robust human
+    pattern, where neutral predicates favor entailment and strongly non-symmetric
+    predicates disfavor it. These findings highlight both the potential and the limits
+    of current LLMs: as cognitive models, they fall short of capturing human-like
+    interpretive biases; as engineering systems, their representations of plural semantics
+    remain unstable for tasks requiring precise entailment.'
   attributes:
     paper_type: N/A
     presentation_type: N/A
@@ -482,5 +435,6 @@
   file: 22.pdf
   id: 22
   openreview_id: TwIEnaivM8
-  pdf_file: a45f393bc3d05699a1e86e4a936c919f4571cdd4.pdf
-  title: Plural Ambiguity in Language Models
+  pdf_file: 086ffb321668477a4f5ad237a22860a12da571cb.pdf
+  title: 'Plural Interpretive Biases: A Comparison Between Human Language Processing
+    and Language Models'

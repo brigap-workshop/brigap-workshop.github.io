@@ -1,12 +1,13 @@
 read https://github.com/rycolab/aclpub2
 read https://acl-org.github.io/ACLPUB/anthology.html
 
-add sponsor_logos/lift2.png (otherwise, edit sponsors.yml)
-update or delete invited_talks.yml (this is optional)
+# DONE: add sponsor_logos/lift2.png (otherwise, edit sponsors.yml)
+# DONE: update or delete invited_talks.yml (this is optional)
 
-run aclpub2/openreview/or2papers.py (see README.txt)
-filter out non-archival submissions
-puis mettre à jour papers.yml dans le dossier principal
+# DONE: run aclpub2/openreview/or2papers.py (see README.txt)
+# DONE: filter out non-archival submissions
+# -> paper #13 is the only non archival accepted submission
+# DONE: puis mettre à jour papers.yml dans le dossier principal
 
 aclpub2/openreview/or2program_committee.py (see README.txt)
 make sure we do have all actual reviewers (listed here: https://brigap-workshop.github.io/program-committee)
