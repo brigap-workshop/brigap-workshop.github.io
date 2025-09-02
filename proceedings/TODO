@@ -14,3 +14,4 @@ make sure we do have all actual reviewers (listed here: https://brigap-workshop.
 puis mettre à jour program_committee.yml dans le dossier principal
 
 However, "aclpub2 unfortunately only seems to generate the PDFs, not the bibtex or meta files" required as described here: https://acl-org.github.io/ACLPUB/anthology.html.
+EDIT: This is apparently not a concern. The output of aclpub2 is fine.
