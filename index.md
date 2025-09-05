@@ -49,9 +49,10 @@ That is, short and long papers may be up to 5-page and 9-page long respectively.
 The workshop chairs are:
 - Timothée Bernard, Université Paris Cité,
 - Timothee Mickus, University of Helsinki,
-- Grégoire Winterstein, Université du Québec à Montréal.
 
 They can be reached via __brigapworkshop@gmail.com__.
+
+(The workshop chairs would like to thank Grégoire Winterstein, who helped them put together the workshop proposal before withdrawing from the organizing committee due to an excessive workload.)
 
 ### Program Committee
 - Lasha Abzianidze
