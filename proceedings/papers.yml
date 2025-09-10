@@ -335,40 +335,6 @@
   pdf_file: 788c1c26d6e87fc9c0a90c4eda0f25782c0f0a10.pdf
   title: Modelling Expectation-based and Memory-based Predictors of Human Reading
     Times with Syntax-guided Attention
-- abstract: 'Large language models (LLMs) demonstrate remarkable linguistic capabilities
-    but lack explicit syntactic knowledge grounded in formal grammatical theory. This
-    paper introduces a syntax-guided parameter-efficient fine-tuning approach\footnote{\url{https://github.com/TransformerTitan/SyntaxGuidedPEFT}}
-    that integrates formal syntactic constraints into transformer-based models using
-    Low-Rank Adaptation (LoRA). We develop a hybrid training objective incorporating
-    violations of syntactic well-formedness derived from dependency parsing and context-free
-    grammar constraints. Our method is evaluated on established English syntactic
-    benchmarks including BLiMP, CoLA, and SyntaxGym targeting specific grammatical
-    phenomena. Results show modest but consistent improvements in syntactic competence:
-    1.6 percentage point average improvement on BLiMP overall, with gains of 1.7 percentage
-    points on agreement phenomena and 1.6 percentage points on filler-gap dependencies,
-    alongside 0.006 improvement in CoLA MCC scores, while maintaining stable performance
-    on general natural language processing (NLP) tasks. The parameter-efficient approach
-    reduces training time by 76\% compared to full fine-tuning while achieving these
-    incremental syntactic gains. This work demonstrates a practical pathway for incorporating
-    linguistic theory into modern natural language processing (NLP) systems, though
-    the improvements suggest that explicit syntactic supervision provides limited
-    additional benefits over implicit learning from large-scale text.'
-  attributes:
-    paper_type: N/A
-    presentation_type: N/A
-    submitted_area: ''
-  authors:
-  - emails: '****@gmail.com'
-    first_name: ''
-    last_name: Prasanth
-    name: Prasanth
-    username: ~Prasanth1
-  decision: BriGap-2
-  file: 18.pdf
-  id: 18
-  openreview_id: DYxMvM2Tjf
-  pdf_file: d8ed69613cbd6850ac7c65e01ba3ac0d32a5c930.pdf
-  title: Syntax-Guided Parameter Efficient Fine-Tuning of Large Language Models
 - abstract: We investigate the impact of center embedding and selectional restrictions
     on neural latent tree models' tendency to induce self-embedding structures. To
     this aim we compare their behavior in different controlled artificial environments
