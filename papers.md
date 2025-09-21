@@ -1,5 +1,7 @@
 # Accepted papers to be presented at the workshop
 
+[Proceedings](proceedings/proceedings.pdf)
+
 #### Natural Language Inference with CCG Parser and Automated Theorem Prover for DTS  
 _Asa Tomita, Mai Matsubara, Hinari Daido, Daisuke Bekki_  
 **Abstract:** We propose a Natural Language Inference (NLI) system based on compositional semantics. 
