@@ -1,3 +1,8 @@
+---
+layout: default_2025
+---
+
+
 # Accepted papers to be presented at the workshop
 
 [Proceedings!](proceedings/proceedings.pdf)

@@ -1,3 +1,7 @@
+---
+layout: default_2025
+---
+
 # Program of the workshop
 
 

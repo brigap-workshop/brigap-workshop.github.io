@@ -1,3 +1,7 @@
+---
+layout: default_2025
+---
+
 # Program committee
 
 This page summarizes information about our organization and program committee.

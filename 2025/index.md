@@ -1,3 +1,7 @@
+---
+layout: default_2025
+---
+
 # BriGap-2, Bridges and Gaps between Formal and Computational Linguistics (an IWCS 2025 workshop)
 
 **Venue:** [IWCS 2025](https://iwcs2025.github.io/), Düsseldorf, Germany  

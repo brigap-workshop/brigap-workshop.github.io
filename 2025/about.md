@@ -1,3 +1,7 @@
+---
+layout: default_2025
+---
+
 # About
 
 The first edition of the workshop on Bridges and Gaps between Formal and Computational Linguistics (BriGap) was held in conjunction with ESSLI 2022. 
