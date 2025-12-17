@@ -10,3 +10,5 @@ In recent years, the natural language processing (NLP) community has shifted its
 
 The BriGap series of workshop aims to provide a space to develop and foster these interactions. 
 After a successful [first edition at ESSLI in 2022](https://gdr-lift.loria.fr/bridges-and-gaps-workshop/) and [a second installment at IWCS in 2025](2025/index), we are now looking forward to the holding third iteration in the near future.
+
+BriGap branches out of the [monthly online seminar on the interactions between formal linguistic and computational linguistics (ILFC)](https://gdr-lift.loria.fr/monthy-online-ilfc-seminar/) organized since 2021.
