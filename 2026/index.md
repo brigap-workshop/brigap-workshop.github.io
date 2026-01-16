@@ -4,8 +4,8 @@ layout: default_2026
 
 # BriGap-3, Bridges and Gaps between Formal and Computational Linguistics
 
-**Venue:** Université Paris Cité, [campus des Grands moulins](https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf), Paris, France
-**Date:** July 11th, 2026
+**Venue:** Université Paris Cité, [campus des Grands moulins](https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf), Paris, France  
+**Date:** July 11th, 2026  
 **Workshop website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)
 
 _BriGap-3 is a venue for linguists and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
