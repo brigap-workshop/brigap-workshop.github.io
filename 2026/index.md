@@ -37,7 +37,7 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 The workshop accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account. 
 Each submission should mention whether it targets archival or non-archival status. Archival papers accepted at BriGap-3 will be indexed in the ACL Anthology.
 Please use the ACL style templates available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)  
-The submissions need to be done in PDF format via OpenReview, using the following link: [TBA](TBA)
+The submissions need to be done in PDF format via OpenReview, using the following link: [TBA](TBA)  
 Please be aware that to submit on OpenReview, you need an OpenReview profile, and that the activation process might take up to two weeks (in case you do not use an institutional email).
 
 As mentionned above, the camera-ready version allows one additional page to address reviewers' comments.
