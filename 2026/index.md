@@ -6,21 +6,22 @@ layout: default_2026
 
 **Venue:** Université Paris Cité, [campus des Grands moulins](https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf), Paris, France  
 **Date:** July 11th, 2026  
-**Workshop website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)
+**Event website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)
 
 _BriGap-3 is a venue for linguists and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
 
-**The workshop is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
+**The event is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
 In particular, we will accept:
-- **Archival submissions,** corresponding to novel and unpublished research, to be included in the workshop proceedings,
+- **Archival submissions,** corresponding to novel and unpublished research, to be included in the event proceedings,
 - **Non-archival submissions,** corresponding to work in progress and early results,
-- **Dissemination submissions,** articles presented in other venues that engage with the topics of the workshop.
+- **Dissemination submissions,** articles presented in other venues that engage with the topics of the event.
 
 ### Description
-In recent years, the natural language processing (NLP) community has shifted its focus towards engineering questions. This state of affairs is in no small part due to the recent technical advances that have transformed NLP as a field. In the current large language model (LLM) era, much of what was deemed near impossible to achieve a few years prior is now taken for granted and it stands to reason that mapping how far ahead new computational models have advanced the field has become a central topic for the NLP community. Hence, the current ongoing discourse in NLP focuses more on what can be achieved through language rather than studying language for its own sake. It seems thus that computational and formal linguistics are now separate domains, and that the former is no longer rooted in the latter.
-To what extent are these traditions truly divorced, and what fruitful bridges can be (re)built? To answer these questions, the second iteration of the workshop on Bridges and Gaps between Formal and Computational Linguistics (BriGap-3) intends to provide a space for formal linguists, computational linguists, and NLP scientists to exchange their perspectives on how their different domains of research can build upon one another.
+Due to the groundbreaking achievements in the LLM era, the ongoing discourse in NLP has shifted more to what can be achieved through language than studying language for its own sake, and traditional conferences are increasingly dominated by engineering-oriented work. It could thus appear that computational and formal linguistics are more than ever separate domains.
+Yet, we are also witnessing a growing interest in linguistics in both explaining the successes of neural models and uncovering their limitations. Conversely, neural methods have proven their usefulness for linguistics time and again.
+To what extent are these traditions truly divorced, and what fruitful bridges can be (re)built? To answer these questions, the third iteration of the workshop on Bridges and Gaps between Formal and Computational Linguistics (BriGap-3) intends to provide a space for formal linguists, computational linguists, and NLP scientists to exchange their perspectives on how their different domains of research can build upon one another.
 
-### Workshop topics
+### Event topics
 - investigation of the linguistic properties of machine learning models,
 - linguistic representations, vector space semantics, and their relations with theoretical concepts such as compositionality,
 - use of information-theoretical and computational methods for linguistic inquiry,
@@ -34,7 +35,7 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 - Tal LINZEN, New York University
 
 ### Submission details
-The workshop accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account. 
+The event accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account.
 Each submission should mention whether it targets archival or non-archival status. Archival papers accepted at BriGap-3 will be indexed in the ACL Anthology.
 Please use the ACL style templates available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)  
 The submissions need to be done in PDF format via OpenReview, using the following link: [TBA](TBA)  
@@ -50,7 +51,7 @@ That is, short and long papers may be up to 5-page and 9-page long respectively.
 - Event: Saturday, July 11th, 2026
 
 ### Contact
-The workshop chairs are:
+The event chairs are:
 - Timothée Bernard, Université Paris Cité,
 - Emmanuele Chersoni, Hong Kong Polytechnic University,
 - Giulia Rambelli, Università di Bologna.
