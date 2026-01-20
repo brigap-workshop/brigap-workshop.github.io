@@ -59,7 +59,30 @@ The event chairs are:
 They can be reached via __brigapworkshop@gmail.com__.
 
 ### Program Committee
-TBA
+- Pascal Amsili
+- Giosue Baggio
+- Philippe Blache
+- Sacha Beniamine
+- Canaan Breiss
+- Lisa Bylinina
+- Marie Candito
+- Yan Cong
+- Benoît Crabbé
+- Yu-yin Hsu
+- Alessandro Lenci
+- Timothee Mickus
+- Filip Miletic
+- Koji Mineshima
+- Ludovica Pannitto
+- Chiara Paolini
+- Denis Paperno
+- Vered Shwartz
+- Ece Takmaz
+- Grégoire Winterstein
+- Guillaume Wisniewski
+- Olga Zamaraeva
+- He Zhou
+- (more to be announced)
 
 ## Support
 The BriGap-3 workshop is funded by [RT LIFT2](https://gdr-lift.loria.fr/), [LLF](http://www.llf.cnrs.fr/en), and [InIdEx EFL](https://efl.u-pariscite.fr/).
