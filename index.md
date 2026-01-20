@@ -1,7 +1,5 @@
 # BriGap, Bridges and Gaps between Formal and Computational Linguistics
 
-**Workshop website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)
-
 _BriGap is a venue for linguists and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
 
 
