@@ -8,7 +8,7 @@ layout: default_2026
 **Date:** July 11th, 2026  
 **Event website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)
 
-_BriGap-3 is a venue for linguists and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
+_BriGap-3 is a venue for formal linguists, computational linguists, and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
 
 **The event is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
 In particular, we will accept:
