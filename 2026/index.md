@@ -32,7 +32,7 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 
 ### Invited speakers
 - Raquel FERNÁNDEZ, Universiteit van Amsterdam
-- Tal LINZEN, New York University
+- Tal LINZEN, New York University (to be confirmed)
 
 ### Submission details
 The event accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account.
