@@ -74,6 +74,7 @@ They can be reached via __brigapworkshop@gmail.com__.
 - Juan Luis Gastaldi
 - Yu-yin Hsu
 - Hai Hu
+- Dan Lassiter
 - Alessandro Lenci
 - Timothee Mickus
 - Filip Miletic
