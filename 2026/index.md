@@ -41,6 +41,9 @@ Please use the ACL style templates available here: [https://github.com/acl-org/a
 The submissions need to be done in PDF format via OpenReview, using the following link: [TBA](TBA)  
 Please be aware that to submit on OpenReview, you need an OpenReview profile, and that the activation process might take up to two weeks (in case you do not use an institutional email).
 
+While it is often syntactically correct and coherent to some extent, the text produced by current generative AI systems falls below our expectations in terms of depth, clarity, and precision. Conceptual clarity and argumentation will be key criteria in the evaluation of submissions. We therefore **strongly** discourage the use of AI systems.  
+In addition, the detection of any hallucinations in a submission (whether in the bibliography or elsewhere) will lead to rejection, regardless of the other qualities of the text.
+
 As mentionned above, the camera-ready version allows one additional page to address reviewers' comments.
 That is, short and long papers may be up to 5-page and 9-page long respectively.
 
@@ -68,7 +71,9 @@ They can be reached via __brigapworkshop@gmail.com__.
 - Marie Candito
 - Yan Cong
 - Benoît Crabbé
+- Juan Luis Gastaldi
 - Yu-yin Hsu
+- Hai Hu
 - Alessandro Lenci
 - Timothee Mickus
 - Filip Miletic
