@@ -38,7 +38,7 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 The event accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account.
 Each submission should mention whether it targets archival or non-archival status. Archival papers accepted at BriGap-3 will be indexed in the ACL Anthology.
 Please use the ACL style templates available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)  
-The submissions need to be done in PDF format via OpenReview, using the following link: [TBA](TBA)  
+The submissions need to be done in PDF format via OpenReview, using the following link: [https://openreview.net/group?id=BriGap/2026/Workshop](link)  
 Please be aware that to submit on OpenReview, you need an OpenReview profile, and that the activation process might take up to two weeks (in case you do not use an institutional email).
 
 While it is often syntactically correct and coherent to some extent, the text produced by current generative AI systems falls below our expectations in terms of depth, clarity, and precision. Conceptual clarity and argumentation will be key criteria in the evaluation of submissions. We therefore **strongly** discourage the use of AI systems.  
