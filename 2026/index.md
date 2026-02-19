@@ -48,9 +48,9 @@ As mentionned above, the camera-ready version allows one additional page to addr
 That is, short and long papers may be up to 5-page and 9-page long respectively.
 
 ### Important dates
-- Submission deadline: Monday, April 27th, 2026, (23:59 AoE)
+- Submission deadline: Monday, April 27th, 2026 (23:59 AoE)
 - Notification of acceptance: Monday, May 11th 2026
-- Camera-ready deadline (for archival submisions only): Thursday, June 11th 2026, (23:59 AoE)
+- Camera-ready deadline (for archival submisions only): Thursday, June 11th 2026 (23:59 AoE)
 - Event: Saturday, July 11th, 2026
 
 ### Contact
