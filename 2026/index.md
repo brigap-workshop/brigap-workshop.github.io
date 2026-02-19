@@ -16,7 +16,7 @@ In particular, we will accept:
 - **Non-archival submissions,** corresponding to work in progress and early results,
 - **Dissemination submissions,** articles presented in other venues that engage with the topics of the event.
 
-### Description
+### Context
 Due to the groundbreaking achievements of the last decade, the ongoing discourse in NLP has shifted more to what can be achieved through language than studying language for its own sake, and traditional conferences are increasingly dominated by engineering-oriented work. It could thus appear that computational and formal linguistics are more than ever separate domains.
 Yet, we are also witnessing a growing interest in linguistics in both explaining the successes of neural models and uncovering their limitations. Conversely, all kinds of computational methods have proven their usefulness for linguistics time and again.
 To what extent are these traditions truly divorced, and what fruitful bridges can be (re)built? To answer these questions, the third iteration of the workshop on Bridges and Gaps between Formal and Computational Linguistics (BriGap-3) intends to provide a space for formal linguists, computational linguists, and NLP scientists to exchange their perspectives on how their different domains of research can build upon one another.
