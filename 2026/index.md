@@ -35,7 +35,7 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 - Tal LINZEN, New York University (online)
 
 ### Submission details
-The event accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account.
+The event accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. The indicated length limits do not include the bibliography or appendices (however, the main text should be self-contained, and reviewers will not be required to review appendices). Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account.
 Each submission should mention whether it targets archival or non-archival status. Archival papers accepted at BriGap-3 will be indexed in the ACL Anthology.
 Please use the ACL style templates available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)  
 The submissions need to be done in PDF format via OpenReview, using the following link: [link](https://openreview.net/group?id=BriGap/2026/Workshop)  
