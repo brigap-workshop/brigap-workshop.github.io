@@ -13,7 +13,7 @@ _BriGap-3 is a venue for formal linguists, computational linguists, and NLP scie
 **The event is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
 In particular, we will accept:
 - **Archival submissions,** corresponding to novel and unpublished research, to be included in the event proceedings,
-- **Non-archival submissions,** corresponding to work in progress, early results, or (dissemination) work already discussed in published form and that engage with the topics of the event.
+- **Non-archival submissions,** corresponding to work in progress, early results, or work already discussed in published form and that engage with the topics of the event (dissemination).
 
 ### Context
 Due to the groundbreaking achievements of the last decade, the ongoing discourse in NLP has shifted more to what can be achieved through language than studying language for its own sake, and traditional conferences are increasingly dominated by engineering-oriented work. It could thus appear that computational and formal linguistics are more than ever separate domains.
