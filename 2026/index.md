@@ -5,7 +5,7 @@ layout: default_2026
 # BriGap-3, Bridges and Gaps between Formal and Computational Linguistics
 
 **Venue:** Université Paris Cité, [campus des Grands moulins](https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf), Paris, France  
-**Date:** July 11th, 2026  
+**Date:** 11 July, 2026  
 **Event website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)
 
 _BriGap-3 is a venue for formal linguists, computational linguists, and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
@@ -49,10 +49,10 @@ As mentionned above, the camera-ready version allows one additional page to addr
 That is, short and long papers may be up to 5-page and 9-page long respectively.
 
 ### Important dates
-- Submission deadline: ~~Monday, April 27th~~ Sunday, May 3rd, 2026 (23:59 AoE)
-- Notification of acceptance: Monday, May 11th 2026
+- Submission deadline: ~~Monday, 27 April~~ Sunday, 3 May, 2026 (23:59 AoE)
+- Notification of acceptance: ~~Monday, 11~~ Monday, 11 May 2026
 - Camera-ready deadline (for archival submisions only): Thursday, June 11th 2026 (23:59 AoE)
-- Event: Saturday, July 11th, 2026
+- Event: Saturday, 11 July, 2026
 
 ### Contact
 The event chairs are:
