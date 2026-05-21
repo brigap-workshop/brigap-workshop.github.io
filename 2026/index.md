@@ -53,7 +53,7 @@ That is, short and long papers may be up to 5-page and 9-page long respectively.
 - Submission deadline: ~~Monday, 27 April~~ Sunday, 3 May, 2026 (23:59 AoE)
 - Notification of acceptance: ~~Monday, 11~~ Monday, 18 May 2026
 - Camera-ready deadline (for archival submisions only): Thursday, 11 June 2026 (23:59 AoE)
-- [Registration deadline](https://framaforms.org/registration-for-brigap-3-1778603461): Monday, 22 June 2026 (23:59 Paris time)
+- [Registration](https://framaforms.org/registration-for-brigap-3-1778603461) deadline: Monday, 22 June 2026 (23:59 Paris time)
 - Event: Saturday, 11 July, 2026
 
 ### Contact
