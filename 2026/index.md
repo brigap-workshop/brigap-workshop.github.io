@@ -6,7 +6,7 @@ layout: default_2026
 
 **Venue:** Université Paris Cité, [campus des Grands moulins](https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf), Paris, France  
 **Date:** 11 July, 2026  
-**Event website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)
+**Event website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)  
 **Registration** ([form](https://framaforms.org/registration-for-brigap-3-1778603461)) is free but mandatory, before 22 June, 2026
 
 _BriGap-3 is a venue for formal linguists, computational linguists, and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
