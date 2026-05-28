@@ -4,41 +4,41 @@ layout: default_2026
 
 # Archival submissions to be presented at the event
 
-#### A graph-based analysis of semantic types and coercion in contextualized word embeddings  
+#### A graph-based analysis of semantic types and coercion in contextualized word embeddings
 _陈龙, Deniz Ekin Yavas_  
 **Abstract:** Semantic type mismatch between a noun and its context is central to coercion phenomena. This paper introduces a graph-based method to examine how lexical and contextual type information is reflected in word embeddings. We select nouns from ten semantic types, annotate corpus instances for type matching (matching vs. coercion vs. other mismatch vs. unrestricted), and construct graphs using BERT and sense-enhanced embeddings. Two metrics—Neighbor Type Probability (NTP) and Neighbor Type Entropy (NTE)—are proposed to analyze neighborhood type distributions. Results show that graphs constructed with sense-enhanced embeddings reflect semantic type information better, and matching and mismatch sentences can be distinguished through the proposed metrics.
 
-#### Artificial Language Learning Paradigm Reveals Pragmatic Blind Spots in Vision-Language Models  
+#### Artificial Language Learning Paradigm Reveals Pragmatic Blind Spots in Vision-Language Models
 _Yan Cong, Julia Rayz_  
 **Abstract:** Humans are pragmatic language users who naturally and effortlessly reason about the choice of utterances that help collaborate and engage in social interactions. In this paper, we examine whether vision-language models (VLMs) exhibit similar pragmatic reasoning effects through a validated artificial language learning paradigm. Across four experiments, we evaluate five VLMs' sensitivity to production cost, ambiguity-driven competition effects, and the influences of visual features and model properties. We find evidence of cost effects in some VLMs. However, no model consistently exhibits competition effects driven by ambiguity risk, a hallmark of Gricean pragmatic reasoning. We also find that model scale alone does not predict pragmatic alignment; architectural choices play a larger role. Moreover, probability-based methods reveal clearer effects than prompting. Overall, current VLMs capture only a restricted subset of pragmatic effects central to Gricean reasoning, suggesting gaps in multimodal pragmatic reasoning.
 
 #### Grammar Engineering Meets LLMs: Development of Cantonese and Irish ParGram Treebanks
-_Chit-Fung Lam, Elaine Uí Dhonnchadha_
+_Chit-Fung Lam, Elaine Uí Dhonnchadha_  
 **Abstract:** Grammar engineering requires expertise in linguistic formalism and computational implementation, particularly in parallel grammar projects that balance cross-linguistic consistency with language-specific properties. This paper presents the development of Cantonese and Irish treebanks within the Parallel Grammar (ParGram) Project, in which parallelism is maintained at an abstract functional level despite typological differences. We also investigated whether a multilingual LLM (OpenAI’s gpt-oss-120b) could support grammar engineering by generating Cantonese–Irish translations and LFG-style syntactic structures. The results showed that translation performance was generally unsatisfactory and unaffected by prompt language. For syntactic structure generation, the model produced some structurally meaningful outputs, but its performance remained limited on tasks requiring cross-linguistic abstraction. LLM outputs may offer some reference value, especially when suggesting alternative analyses, but they require careful manual verification and cannot replace expert-driven grammar development.
 
 #### Diagnosing Compositional Generalization in Transformers on ReCOGS with Compositional Graph Similarity
-_Bruno Leite Franco, Edson Emilio Scalabrin_
+_Bruno Leite Franco, Edson Emilio Scalabrin_  
 **Abstract:** This paper investigates the evaluation of compositional generalization in Transformer models on the ReCOGS benchmark. The problem addressed is that ReCOGS relies on Semantic Exact Match, a binary metric that assigns the same penalty to minor local mismatches and severe structural errors, limiting diagnostic interpretation. To address this, the study introduces Compositional Graph Similarity (CGS), a graph-based metric that compares predicted and reference semantic structures through explicit edit operations, providing graded and interpretable structural evaluation. The work also uses controlled synthetic datasets to test whether low-scoring ReCOGS categories reflect true model limitations or weaknesses in dataset coverage. Empirical results show that CGS satisfies all seven quality criteria adopted for graph similarity and identifies the lowest-scoring ReCOGS categories as cp recursion (45.0%), obj pp to subj pp (65.4%), and prim to inf arg (66.7%). Follow-up experiments showed 0% Semantic Exact Match under depth extrapolation and constituent-role relocation, but 99.9% Semantic Exact Match for prim to inf arg in isolation. These findings support the conclusion that CGS is more informative than Semantic Exact Match and that Transformer limitations in ReCOGS are partly structural and partly induced by dataset distribution.
 
-#### Neural Wani: Toward Accelerating the Automated Theorem Prover wani for Dependent Type Theory  
+#### Neural Wani: Toward Accelerating the Automated Theorem Prover wani for Dependent Type Theory
 _Nanako Miyagawa, Hinari Daido, Daisuke Bekki_  
 **Abstract:** This paper proposes NEURAL WANI, an integration of a neural model into the automated theorem prover WANI for Dependent Type Theory (DTT), aimed at accelerating proof search in natural language inference (NLI) pipelines. 
 We implemented a lightweight LSTM-based model to predict the probability distribution of applicable inference rules and integrated it into WANI’s backward inference process. Evaluation using the JSeM dataset demonstrates that NEURAL WANI achieves a 1.41x speedup compared to the standard non-neural baseline. Although slight overhead is observed in simpler proofs, our results indicate that neural-symbolic integration effectively guides search in complex DTT-based automated theorem proving.
 
 #### Cross-linguistic Geometry of Adjective Representations in Multilingual Transformers: Semantic Class, Gradability, and Positional Effects.
-_Tancredi Monterosso_
+_Tancredi Monterosso_  
 **Abstract:** In this study, we examine whether multilingual contextual embeddings encode properties of adjectives that are theoretically relevant to formal analyses of nominal modification. Using Universal Dependencies corpora for Arabic, English, and Italian, we extract contextualized adjective embeddings from the multilingual XLM-RoBERTa model and analyze them with respect to (i) semantic classes, (ii) the distinction between relational and descriptive adjectives, (iii) the distinction between gradable and non-gradable adjectives, and (iv) prenominal versus postnominal position in Italian. Our results indicate that adjective representations are organized in a shared multilingual space, but that this space is not best accounted for by a rigidly aligned universal hierarchy of semantic classes. Rather, the most salient organizing dimensions correspond to broader semantic-syntactic contrasts, in particular the relational/descriptive opposition, gradability, and, in the case of Italian, position-conditioned variation.
 
 #### Towards Benchmarking Old Church Slavonic Lemmatization
-_Usman Nawaz, Marianna Napolitano, Iris Karafillidis, Liliana Lo Presti, Marco La Cascia_
-**Abstract:** Lemmatization is an important preprocessing step in Natural Language Processing (NLP); however, annotated resources for medieval languages such as Old Church Slavonic (OCS) are limited in scope, size, and diversity. This paper presents the annotated resources for OCS lemmatization, including  annotation process,  design choices and non-standard Unicode related issues. The annotated corpus is used to evaluate existing lemmatization tools (Stanza and UDPipe-2 models trained on the UD 2.12 treebank, and a dictionary-based approach) both in cross-dataset and on a corpus merging the new annotations with existing UD V2.12 OCS data. Pretrained models perform poorly (≈ 15–16%), below a dictionary baseline (≈  38%), while retraining on the new data improves performance (up to ≈ 51%) and shows different cross-dataset generalization. Experiments in cross-dataset and on the combined corpus demonstrate that lemmatization performance depends strongly on dataset similarity, annotation conventions, and orthographic mismatch. Overall, the findings show the value of the newly annotated resources and the importance of extending OCS lemmatization benchmarks for historical Slavic NLP.
+_Usman Nawaz, Marianna Napolitano, Iris Karafillidis, Liliana Lo Presti, Marco La Cascia_  
+**Abstract:** Lemmatization is an important preprocessing step in Natural Language Processing (NLP); however, annotated resources for medieval languages such as Old Church Slavonic (OCS) are limited in scope, size, and diversity. This paper presents the annotated resources for OCS lemmatization, including annotation process, design choices and non-standard Unicode related issues. The annotated corpus is used to evaluate existing lemmatization tools (Stanza and UDPipe-2 models trained on the UD 2.12 treebank, and a dictionary-based approach) both in cross-dataset and on a corpus merging the new annotations with existing UD V2.12 OCS data. Pretrained models perform poorly (≈15–16%), below a dictionary baseline (≈38%), while retraining on the new data improves performance (up to ≈51%) and shows different cross-dataset generalization. Experiments in cross-dataset and on the combined corpus demonstrate that lemmatization performance depends strongly on dataset similarity, annotation conventions, and orthographic mismatch. Overall, the findings show the value of the newly annotated resources and the importance of extending OCS lemmatization benchmarks for historical Slavic NLP.
 
 #### Polar Questions in SPA–TTR: Linking Dialogue, Acquisition, and Neurosemantics
-_Jonathan Ginzburg, Shiyun Dong, Robin Cooper, Andy Luecking, Staffan Larsson_
+_Jonathan Ginzburg, Shiyun Dong, Robin Cooper, Andy Luecking, Staffan Larsson_  
 **Abstract:** In this paper, we offer an extension of an earlier proposal for treating wh-questions within a compositional, neurally–implemented semantic framework that interfaces with memory to the other main class of questions, namely polar questions. Our proposal yields improved empirical coverage for polar questions as compared with previous formal semantic accounts. It also offers the basis for an account of the finding that understanding for wh-questions emerges in language development before that of polar questions–a finding that goes against all previous formal semantics accounts of questions where polar questions are simplest in terms of their semantic complexity.
 
 #### A Formal Model of Lexical Negation in Discrete Communication
-_Mikołaj Piotr Golecki, Timothée Bernard_
+_Mikołaj Piotr Golecki, Timothée Bernard_  
 **Abstract:** Negation is a useful case for studying linguistic structure because natural languages must distinguish between objects satisfying a predicate and those satisfying its complement.
 In emergent communication, however, a system may separate positive and negative meanings without developing a negation marker: polarity may be tied to identity, distributed across values, or reflected only in accidental correlations.
 We propose an information-theoretic account of negation encoding in discrete communication systems, yielding metrics for characterising lexical negation.
@@ -48,44 +48,44 @@ The results suggest that these pressures can produce high-scoring polarity-sensi
 More generally, we highlight both the usefulness and the limits of targeted semantic diagnostics for analysing structure in emergent languages.
 
 #### From Execution to Exploration: Bridging the Usability Gap in Formal Natural Language Inference
-_Koharu Saeki, Daisuke Bekki_
+_Koharu Saeki, Daisuke Bekki_  
 **Abstract:** Linguistically-oriented formal NLI systems ensure the validity and transparency of inference. However, the combinatorial explosion of candidates, which we term the branching problem, imposes prohibitive computational overhead and a heavy cognitive burden on grammar developers. We argue that a central cause is a mismatch between the exhaustive execution paradigm and the actual workflow of grammar developers. To overcome this barrier, we propose restructuring the development workflow from exhaustive execution to interactive exploration driven by developer decisions. We realize this shift in Express, a web-based interactive development environment for lightblue, a Japanese automated inference system built upon Combinatory Categorial Grammar and Dependent Type Semantics. Express transforms branches at each stage of parsing, type checking, and proof search into explicitly selectable units, transferring control over the reasoning process to the developer. Our evaluation shows that this paradigm shift effectively reduces unnecessary computation and cognitive burden during grammar development: in a user study, we observed a 96% reduction in explored paths and improvement in the task success rate from 25% to 100%. Furthermore, a case study demonstrates a roughly 12× reduction in debugging turnaround time.
 
 #### Using the Mimi codec for metalinguistic representations
-_Artem Saloev, Erin Pacquetet, Nicolas Ballier_
+_Artem Saloev, Erin Pacquetet, Nicolas Ballier_  
 **Abstract:** Codec-based audio language models are developing, but little explainability research has been dedicated to the representation of this type of speech tokenisation. In this paper, we focus on the dictionary of 2048 tokens used in Mimi’s semantic token codebook, the neural
 codec of the Moshi language model (Défossez et al., 2024). We show that the ABX experiment carried out with Mimi fails to capture the
 mapping of the semantic tokens to phone realisations. By realigning Mimi’s representations to the TIMIT corpus transcriptions (Garofolo
 et al., 1993), we show that the 2048 tokens IDs of the semantic codebook map to quadphone, triphone, biphone, phone and subphone realisations. We used the TIMIT transcriptions as evidence of the validity of the allophone-based representations of these 80ms semantic token representation and examine some of the theoretical consequences for the tokenisation of speech at allophone and subphonemic level.
 
 #### Misalignments in Common Ground as a Bridge Between Pragmatic Theory and LLM Evaluation
-_Judith Sieker, Sina Zarrieß_
+_Judith Sieker, Sina Zarrieß_  
 **Abstract:** In this position paper, we argue that misalignments in common ground are not marginal failures of communication, but central diagnostic moments for pragmatic competence, and should therefore play a key role in the evaluation of Large Language Models (LLMs).
 Evaluating how models respond to such instances of mismatched or incomplete understanding moves beyond surface fluency and correctness, targeting pragmatic competence at a deeper, interactional level.
 At the same time, misalignments provide controlled settings for testing linguistic theories of common ground, repair, or accommodation – areas that are often difficult to investigate in human communication.
 We argue that this dual role makes misalignments a natural bridge between pragmatic theory and LLM evaluation.
 
 #### Transformers Learning Contrafactives: The Importance of Data Distributions
-_David Strohmaier, Simon Wimmer_
+_David Strohmaier, Simon Wimmer_  
 **Abstract:** No natural language is known to have contrafactive attitude verbs, yet factives are common across natural languages. Several experiments
 by Strohmaier and Wimmer (2022; 2023; 2025) use transformers as model learners to investigate whether this asymmetry is due to a difference in how easy it is to learn contrafactives and factives. But they do not explore empirically-founded data distributions. We fill this gap, further improving the overall quality of training data distributions using linear programming.Our results confirm Strohmaier and Wimmer’s 2025 conclusion that there is no learnability difference in production, while establishing the impact of differences in data distributions.
 
 #### Inferring Formal Grammars from Syntactically Annotated Corpora
-_Ekaterina Voloshina, Krasimir Angelov_
+_Ekaterina Voloshina, Krasimir Angelov_  
 **Abstract:** We present a method that learns syntactic rules of a formal grammar by using annotated corpora and already existing morphological types. The generated code is human-readable and can be post-edited. We illustrate our method on the data for five languages, showing that even small corpora are sufficient to produce plausible rules.
 
 
 # Non-archival submissions to be presented at the event
 
-#### Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests  
+#### Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests
 _Manar Ali, Judith Sieker, Sina Zarrieß, Hendrik Buschmeier_  
 **Abstract:** In human conversation, both interlocutors play an active role in maintaining mutual understanding. When addressees are uncertain about what speakers mean, for example, they can request clarification. It is an open question for language models whether they can assume a similar addressee role, recognizing and expressing their own uncertainty through clarification. Here we argue that reference games are a good testbed to approach this question as they are controlled, self-contained, and make clarification needs explicit and measurable. To test this, we evaluate three vision-language models comparing a baseline reference resolution task to an experiment where the models are instructed to request clarification when uncertain. The results suggest that even in such simple tasks, models often struggle to recognize internal uncertainty and translate it into adequate clarification behavior. This demonstrates the value of reference games as testbeds for interaction qualities of (vision and) language models.
 
-#### Implicatures: a Dataset and Experiments on a Language Model  
+#### Implicatures: a Dataset and Experiments on a Language Model
 _Gustavo Cilleruelo Calderón, Alexandra Birch, Emily Allaway_  
 **Abstract:** Implicatures are meanings conveyed by utterances beyond the literal content of the words that make them up. This work introduces a framework to collect and synthesize naturalistic implicature data, as well as information-theoretic strategies to observe pragmatic inferences.  We present a dataset of naturalistic scalar ($N=5522$), double negation ($N=13495$) and prolixity implicatures ($N=133$), as well as scalable methods for data collection. For each of these types of implicatures, we make counterfactual interventions that cancel or create implicated meanings, and then use a language model to measure the effects of such interventions on particular tokens of the context. Our results indicate that Olmo3-32B is sensitive to many pragmatic inferences.
 
-#### Implementing Disjunctive Anaphora 'a la Dependent Type Semantics  
+#### Implementing Disjunctive Anaphora 'a la Dependent Type Semantics
 _Hinari Daido, Daisuke Bekki_  
 **Abstract:** This paper presents an analysis of disjunctive anaphora within the framework of Dependent Type Semantics (DTS).
 Our approach reconciles compositionality with the complex accessibility patterns of disjunction, demonstrating that DTS can seamlessly account for both its static and dynamic behaviors, including Rothschild's (2017) puzzle.
@@ -94,22 +94,22 @@ By extending WANI to support disjoint union types, we evaluate our approach on a
 Our system solves all problems, achieving 100% accuracy.
 As the first automatic anaphora resolution system for disjunctive antecedents, this work provides rigorous, quantitative validation of our theoretical claims and offers a robust foundation for future dynamic semantics implementations.
 
-#### Neural DTS: Integrating Hyperbolic Classifiers into Natural Language Inference Systems  
+#### Neural DTS: Integrating Hyperbolic Classifiers into Natural Language Inference Systems
 _Honoka Kobayashi, Hinari Daido, Daisuke Bekki_  
 **Abstract:** Dependent Type Semantics (DTS) provides a highly rigorous framework for natural language inference (NLI), yet its scalability is severely bottlenecked by the need for manually created world knowledge. To overcome this knowledge acquisition bottleneck, we present a novel neuro-symbolic NLI system that integrates Hyperbolic Entailment Cones for automated conceptual hierarchy discovery. 
 By exploiting the geometric properties of hyperbolic space, our model efficiently learns lexical entailment relations and dynamically injects them as logical axioms during the DTS proof-search process. Evaluations on our constructed diagnostic dataset show that our hybrid approach broadens the coverage of complex lexical variations and paraphrases without manual engineering.
 
-#### Beyond surprisal: Capturing N400 and P600 effects for metaphor via semantic, pragmatic, and predictive computational models  
+#### Beyond surprisal: Capturing N400 and P600 effects for metaphor via semantic, pragmatic, and predictive computational models
 _Veronica Mangiaterra, Paolo Canal, Chiara Barattieri di San Pietro, Valentina Bambini_  
 **Abstract:** Accounts of metaphor processing propose different mechanisms underlying comprehension, emphasizing semantic integration, pragmatic inference, or context-based prediction. These positions have guided the debated functional interpretation of electrophysiological responses to metaphor, typically characterized by an N400 often followed by later effects.  
 Here, we used computational modeling to test whether quantitative measures clarify the processes underlying metaphor-related ERP components. For metaphoric and literal sentences, we computed semantic similarity from word embeddings, surprisal from Large Language Models (LLMs), and a Bayesian pragmatic measure (BPM) inspired by the Rational Speech Acts framework, indexing semantic, predictive, and inferential processes, respectively. We then compared their ability to model the N400 and P600 components using data from 55 participants.  
 We observed a biphasic EEG response, with metaphors eliciting an N400 followed by a P600. Among computational measures, surprisal showed the strongest overall effect on EEG amplitude in both windows, accompanied by a smaller effect of BPM and, only in the P600, of semantic similarity.  
 These results suggest that predictive mechanisms play a general role across the time course of metaphor comprehension, but additional processes are involved. In particular, pragmatic inference appears, reflecting the effort to select relevant features and derive intended meaning.
 
-#### The Frequency Confound in Language-Model Surprisal and Metaphor Novelty  
+#### The Frequency Confound in Language-Model Surprisal and Metaphor Novelty
 _Omar Momen, Sina Zarrieß_  
 **Abstract:** Novel metaphor comprehension involves complex semantic processes and linguistic creativity, making it an interesting task for studying language models (LMs). This study investigates whether surprisal, a probabilistic measure of predictability in LMs, correlates with annotations of metaphor novelty in different datasets. We analyse the surprisal of metaphoric words in corpus-based and synthetic metaphor datasets using 16 causal LM variants. We propose a cloze-style surprisal method that conditions on full-sentence context. Results show that LM surprisal yields significant moderate correlations with scores/labels of metaphor novelty. We further identify divergent scaling patterns: on corpus-based data, correlation strength decreases with model size (inverse scaling effect), whereas on synthetic data it increases (quality–power hypothesis). We conclude that while surprisal can partially account for annotations of metaphor novelty, it remains limited as a metric of linguistic creativity.
 
-#### Processing Effects of Code-Switching in Humans and LLMs  
+#### Processing Effects of Code-Switching in Humans and LLMs
 _Marina Sokolova, Natalia Moskvina, Nayara Mirio e Silva_  
 **Abstract:** This study investigates the processing effects of code-switching (CS) between typologically distant languages. A central question is whether CS induces a prosodic boundary and how its placement affects syntactic parsing. While this remains an empirical question in human processing, it provides a strong test case for human–machine comparison: if CS functions as a structural cue, then for large language models (LLMs), a language switch may act as a segmentation signal. We test whether CS affects the resolution of relative clause (RC) attachment ambiguities. Results show that humans whose linguistic background includes languages with different attachment preferences use CS as a probabilistic prosodic cue, whereas LLMs exhibit asymmetric, direction-dependent behavior.
