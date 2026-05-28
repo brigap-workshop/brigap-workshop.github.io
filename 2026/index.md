@@ -9,11 +9,6 @@ layout: default_2026
 **Event website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)  
 **Registration** ([form](https://framaforms.org/registration-for-brigap-3-1778603461)) is free but mandatory, before 22 June, 2026
 
-**The event is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
-In particular, we will accept:
-- **Archival submissions,** corresponding to novel and unpublished research, to be included in the event proceedings,
-- **Non-archival submissions,** corresponding to work in progress, early results, or work already discussed in published form and that engage with the topics of the event (dissemination).
-
 ### Context
 Due to the groundbreaking achievements of the last decade, the ongoing discourse in NLP has shifted more to what can be achieved through language than studying language for its own sake, and traditional conferences are increasingly dominated by engineering-oriented work. It could thus appear that computational and formal linguistics are more than ever separate domains.
 Yet, we are also witnessing a growing interest in linguistics in both explaining the successes of neural models and uncovering their limitations. Conversely, all kinds of computational methods have proven their usefulness for linguistics time and again.
@@ -33,6 +28,12 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 - Tal LINZEN, New York University (online)
 
 ### Submission details
+
+**The event is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
+In particular, we will accept:
+- **Archival submissions,** corresponding to novel and unpublished research, to be included in the event proceedings,
+- **Non-archival submissions,** corresponding to work in progress, early results, or work already discussed in published form and that engage with the topics of the event (dissemination).
+
 The event accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. 
 The indicated length limits do not include the bibliography, an optional Limitations section, or appendices (however, the main text should be self-contained, and reviewers will not be required to review appendices). 
 Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account.
