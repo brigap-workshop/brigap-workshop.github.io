@@ -1,9 +1,6 @@
 # BriGap, Bridges and Gaps between Formal and Computational Linguistics
 
-_BriGap is a venue for linguists and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
 
-
-### Description
 In recent years, the natural language processing (NLP) community has shifted its focus towards engineering questions. 
 This state of affairs is in no small part due to the recent technical advances that have transformed NLP as a field. 
 In the current large era of increasingly powerful data-driven approaches, much of what was deemed near impossible to achieve a few years prior is now taken for granted and it stands to reason that mapping how far ahead new computational models have advanced the field has become a central topic for the NLP community.

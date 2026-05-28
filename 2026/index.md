@@ -9,8 +9,6 @@ layout: default_2026
 **Event website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)  
 **Registration** ([form](https://framaforms.org/registration-for-brigap-3-1778603461)) is free but mandatory, before 22 June, 2026
 
-_BriGap-3 is a venue for formal linguists, computational linguists, and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
-
 **The event is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
 In particular, we will accept:
 - **Archival submissions,** corresponding to novel and unpublished research, to be included in the event proceedings,

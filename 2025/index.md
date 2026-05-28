@@ -8,8 +8,6 @@ layout: default_2025
 **Date:** September 24th, 2025  
 **Workshop website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)
 
-_BriGap-2 is a venue for linguists and NLP scientists to meet: what fruitful interactions can we have? How do we build upon each other’s work?_
-
 **The workshop is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
 In particular, we will accept:
 - **Archival submissions,** corresponding to novel and unpublished research, to be included in the workshop proceedings,
