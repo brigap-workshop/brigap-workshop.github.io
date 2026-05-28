@@ -29,11 +29,6 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 
 ### Submission details
 
-**The event is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible.**  
-In particular, we will accept:
-- **Archival submissions,** corresponding to novel and unpublished research, to be included in the event proceedings,
-- **Non-archival submissions,** corresponding to work in progress, early results, or work already discussed in published form and that engage with the topics of the event (dissemination).
-
 The event accepts both archival (original and unpublished research) submissions in either short (up to 4 pages) or long (up to 8 pages) format, and non-archival (work-in-progress, dissemination of research published or accepted elsewhere, etc.) submissions in short (up to 4 pages) format. 
 The indicated length limits do not include the bibliography, an optional Limitations section, or appendices (however, the main text should be self-contained, and reviewers will not be required to review appendices). 
 Camera-ready versions of papers will be given one additional page of content so that reviewers’ comments can be taken into account.
