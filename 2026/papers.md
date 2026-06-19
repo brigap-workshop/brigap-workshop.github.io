@@ -39,10 +39,10 @@ _Jonathan Ginzburg, Shiyun Dong, Robin Cooper, Andy Luecking, Staffan Larsson_
 
 #### A Formal Model of Lexical Negation in Discrete Communication
 _Mikołaj Piotr Golecki, Timothée Bernard_  
-**Abstract:** Negation is a useful case for studying linguistic structure because natural languages must distinguish between objects satisfying a predicate and those satisfying its complement.
-In emergent communication, however, a system may separate positive and negative meanings without developing a negation marker: polarity may be tied to identity, distributed across values, or reflected only in accidental correlations.
-We propose an information-theoretic account of negation encoding in discrete communication systems, yielding metrics for characterising lexical negation.
-We first study these metrics on toy languages, showing which encoding patterns they capture and which remain ambiguous.
+**Abstract:** Natural languages distinguish between objects satisfying a predicate and those satisfying its complement, often using a simple lexical negation.
+In emergent communication, however, a system may separate positive and negative meanings without developing a single negation marker: polarity may be tied to the thing being negated, distributed across multiple symbols, or reflected only in accidental correlations.
+We propose an information-theoretic account of negation applicable to discrete communication systems.
+We first study these metrics on toy languages, showing how they can be used to detect various patterns and how these are indeed related to negation.
 We then apply them to languages emerging in a signalling game with set-complement relations, under pressures known to favour compositionality.
 The results suggest that these pressures can produce high-scoring polarity-sensitive features, but not necessarily a compositional encoding of negation.
 More generally, we highlight both the usefulness and the limits of targeted semantic diagnostics for analysing structure in emergent languages.
