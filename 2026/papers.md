@@ -70,10 +70,6 @@ _David Strohmaier, Simon Wimmer_
 **Abstract:** No natural language is known to have contrafactive attitude verbs, yet factives are common across natural languages. Several experiments
 by Strohmaier and Wimmer (2022; 2023; 2025) use transformers as model learners to investigate whether this asymmetry is due to a difference in how easy it is to learn contrafactives and factives. But they do not explore empirically-founded data distributions. We fill this gap, further improving the overall quality of training data distributions using linear programming.Our results confirm Strohmaier and Wimmer’s 2025 conclusion that there is no learnability difference in production, while establishing the impact of differences in data distributions.
 
-#### Inferring Formal Grammars from Syntactically Annotated Corpora
-_Ekaterina Voloshina, Krasimir Angelov_  
-**Abstract:** We present a method that learns syntactic rules of a formal grammar by using annotated corpora and already existing morphological types. The generated code is human-readable and can be post-edited. We illustrate our method on the data for five languages, showing that even small corpora are sufficient to produce plausible rules.
-
 
 # Non-archival submissions to be presented at the event
 
@@ -113,3 +109,7 @@ _Omar Momen, Sina Zarrieß_
 #### Processing Effects of Code-Switching in Humans and LLMs
 _Marina Sokolova, Natalia Moskvina, Nayara Mirio e Silva_  
 **Abstract:** This study investigates the processing effects of code-switching (CS) between typologically distant languages. A central question is whether CS induces a prosodic boundary and how its placement affects syntactic parsing. While this remains an empirical question in human processing, it provides a strong test case for human–machine comparison: if CS functions as a structural cue, then for large language models (LLMs), a language switch may act as a segmentation signal. We test whether CS affects the resolution of relative clause (RC) attachment ambiguities. Results show that humans whose linguistic background includes languages with different attachment preferences use CS as a probabilistic prosodic cue, whereas LLMs exhibit asymmetric, direction-dependent behavior.
+
+#### Inferring Formal Grammars from Syntactically Annotated Corpora
+_Ekaterina Voloshina, Krasimir Angelov_  
+**Abstract:** We present a method that learns syntactic rules of a formal grammar by using annotated corpora and already existing morphological types. The generated code is human-readable and can be post-edited. We illustrate our method on the data for five languages, showing that even small corpora are sufficient to produce plausible rules.
