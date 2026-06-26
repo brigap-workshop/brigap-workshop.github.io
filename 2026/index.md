@@ -4,7 +4,7 @@ layout: default_2026
 
 # BriGap-3, Bridges and Gaps between Formal and Computational Linguistics
 
-**Venue:** Université Paris Cité, [campus des Grands moulins](https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf), Paris, France  
+**Venue:** Université Paris Cité, [campus des Grands moulins, room 247E and 237C, Halles aux farines](https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf), Paris, France  
 **Date:** 11 July, 2026  
 **Event website:** [https://brigap-workshop.github.io/](https://brigap-workshop.github.io/)  
 **Registration** ([form](https://framaforms.org/registration-for-brigap-3-1778603461)) is free but mandatory, before 22 June, 2026
