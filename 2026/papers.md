@@ -5,7 +5,7 @@ layout: default_2026
 # Archival submissions to be presented at the event
 
 #### A graph-based analysis of semantic types and coercion in contextualized word embeddings
-_陈龙, Deniz Ekin Yavas_  
+Long Chen, Deniz Ekin Yavas_  
 **Abstract:** Semantic type mismatch between a noun and its context is central to coercion phenomena. This paper introduces a graph-based method to examine how lexical and contextual type information is reflected in word embeddings. We select nouns from ten semantic types, annotate corpus instances for type matching (matching vs. coercion vs. other mismatch vs. unrestricted), and construct graphs using BERT and sense-enhanced embeddings. Two metrics—Neighbor Type Probability (NTP) and Neighbor Type Entropy (NTE)—are proposed to analyze neighborhood type distributions. Results show that graphs constructed with sense-enhanced embeddings reflect semantic type information better, and matching and mismatch sentences can be distinguished through the proposed metrics.
 
 #### Artificial Language Learning Paradigm Reveals Pragmatic Blind Spots in Vision-Language Models
@@ -25,7 +25,7 @@ _Nanako Miyagawa, Hinari Daido, Daisuke Bekki_
 **Abstract:** This paper proposes NEURAL WANI, an integration of a neural model into the automated theorem prover WANI for Dependent Type Theory (DTT), aimed at accelerating proof search in natural language inference (NLI) pipelines. 
 We implemented a lightweight LSTM-based model to predict the probability distribution of applicable inference rules and integrated it into WANI’s backward inference process. Evaluation using the JSeM dataset demonstrates that NEURAL WANI achieves a 1.41x speedup compared to the standard non-neural baseline. Although slight overhead is observed in simpler proofs, our results indicate that neural-symbolic integration effectively guides search in complex DTT-based automated theorem proving.
 
-#### Cross-linguistic Geometry of Adjective Representations in Multilingual Transformers: Semantic Class, Gradability, and Positional Effects.
+#### Cross-linguistic Geometry of Adjective Representations in Multilingual Transformers: Semantic Class, Gradability, and Positional Effects
 _Tancredi Monterosso_  
 **Abstract:** In this study, we examine whether multilingual contextual embeddings encode properties of adjectives that are theoretically relevant to formal analyses of nominal modification. Using Universal Dependencies corpora for Arabic, English, and Italian, we extract contextualized adjective embeddings from the multilingual XLM-RoBERTa model and analyze them with respect to (i) semantic classes, (ii) the distinction between relational and descriptive adjectives, (iii) the distinction between gradable and non-gradable adjectives, and (iv) prenominal versus postnominal position in Italian. Our results indicate that adjective representations are organized in a shared multilingual space, but that this space is not best accounted for by a rigidly aligned universal hierarchy of semantic classes. Rather, the most salient organizing dimensions correspond to broader semantic-syntactic contrasts, in particular the relational/descriptive opposition, gradability, and, in the case of Italian, position-conditioned variation.
 
