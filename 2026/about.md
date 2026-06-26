@@ -17,4 +17,4 @@ The BriGap-3 workshop is funded by
 
 - [RT LIFT2](https://gdr-lift.loria.fr/), a France-based research group aiming to bring together researchers in computational linguistics, formal linguistics, and field linguistics around shared questions, data, and tools,
 - [LLF](http://www.llf.cnrs.fr/en), a joint Université Paris Cité-CNRS laboratory doing research covering a wide range of topics in formal, experimental and computational linguistics,
-- [InIdEx EFL](https://efl.u-pariscite.fr/) an Université Paris Cité project that supports innovative research on languages and language, bringing together different fields of linguistics and related disciplines (psychology, neuroscience, computer science) around themes that respond to the major challenges of today’s world.
+- [InIdEx EFL](https://efl.u-pariscite.fr/), an Université Paris Cité project that supports innovative research on languages and language, bringing together different fields of linguistics and related disciplines (psychology, neuroscience, computer science) around themes that respond to the major challenges of today’s world.
