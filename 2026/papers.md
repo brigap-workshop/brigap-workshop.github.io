@@ -23,7 +23,7 @@ _Bruno Leite Franco, Edson Emilio Scalabrin_
 #### Neural Wani: Toward Accelerating the Automated Theorem Prover wani for Dependent Type Theory
 _Nanako Miyagawa, Hinari Daido, Daisuke Bekki_  
 **Abstract:** This paper proposes NEURAL WANI, an integration of a neural model into the automated theorem prover WANI for Dependent Type Theory (DTT), aimed at accelerating proof search in natural language inference (NLI) pipelines. 
-We implemented a lightweight LSTM-based model to predict the probability distribution of applicable inference rules and integrated it into WANI’s backward inference process. Evaluation using the JSeM dataset demonstrates that NEURAL WANI achieves a 1.41x speedup compared to the standard non-neural baseline. Although slight overhead is observed in simpler proofs, our results indicate that neural-symbolic integration effectively guides search in complex DTT-based automated theorem proving.
+We implemented a lightweight LSTM-based model to predict the probability distribution of applicable inference rules and integrated it into WANI’s backward inference process. Evaluation using the JSeM dataset demonstrates that NEURAL WANI achieves a 1.41x speedup compared to the standard non-neural baseline. Although slight overhead is observed in simpler proofs, our results indicate that neuro-symbolic integration effectively guides search in complex DTT-based automated theorem proving.
 
 #### Cross-linguistic Geometry of Adjective Representations in Multilingual Transformers: Semantic Class, Gradability, and Positional Effects
 _Tancredi Monterosso_  
