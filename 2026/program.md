@@ -4,6 +4,8 @@ layout: default_2026
 
 # Program of the event
 
+**Venue:** Université Paris Cité, [campus des Grands moulins, room 247E and 237C, Halle aux farines](https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf), Paris, France  
+**Date:** 11 July, 2026  
 
 | <!-- -->    | <!-- -->    |
 |--:|:--|
