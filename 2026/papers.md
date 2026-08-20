@@ -2,7 +2,10 @@
 layout: default_2026
 ---
 
+
 # Archival submissions to be presented at the event
+
+[Proceedings!](https://aclanthology.org/2026.brigap-1.0/)
 
 #### A graph-based analysis of semantic types and coercion in contextualized word embeddings
 Long Chen, Deniz Ekin Yavas_  

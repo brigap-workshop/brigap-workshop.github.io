@@ -5,7 +5,7 @@ layout: default_2025
 
 # Accepted papers to be presented at the workshop
 
-[Proceedings!](proceedings/proceedings.pdf)
+[Proceedings!](https://aclanthology.org/2025.brigap-1.0/)
 
 #### Natural Language Inference with CCG Parser and Automated Theorem Prover for DTS  
 _Asa Tomita, Mai Matsubara, Hinari Daido, Daisuke Bekki_  
