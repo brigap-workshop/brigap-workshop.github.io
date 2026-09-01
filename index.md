@@ -1,7 +1,7 @@
 # BriGap, Bridges and Gaps between Formal and Computational Linguistics
 
 
-Due to the recent technical advances that have transformed NLP as a field, the natural language processing (NLP) community has gradually shifted its focus towards engineering questions and the current ongoing discourse in NLP focuses more on *what can be achieved through language* rather *studying language for its own sake*.
+Due to the recent technical advances that have transformed natural language processing (NLP) as a field, the NLP community has gradually shifted its focus towards engineering questions and the current ongoing discourse in NLP focuses more on *what can be achieved through language* rather *studying language for its own sake*.
 
 At a glance, it would appear that computational and formal linguistics are now separate domains and that the former is no longer rooted in the latter.
 Yet, there is sustained interest within formal linguistics in both explaining the successes of neural-based NLP models and uncovering their limitations.
