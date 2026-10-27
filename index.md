@@ -12,7 +12,7 @@ To what extent are these traditions truly divorced, and what fruitful bridges ca
 To answer these questions, the BriGap series of workshops on Bridges and Gaps between Formal and Computational Linguistics intends to provide a space for formal linguists, computational linguists, and NLP scientists to exchange their perspectives on how their different domains of research can build upon one another.
 
 After 
-a successful [first edition at ESSLI in 2022](https://gdr-lift.loria.fr/bridges-and-gaps-workshop/), 
+a successful [first edition at ESSLLI in 2022](2022/index), 
 [a second installment at IWCS in 2025](2025/index), 
 and [a third iteration as a standalone event in Paris in 2026](2026/index), 
 we are now organising a fourth edition.

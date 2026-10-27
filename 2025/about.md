@@ -4,8 +4,8 @@ layout: default_2025
 
 # About
 
-The first edition of the workshop on Bridges and Gaps between Formal and Computational Linguistics (BriGap) was held in conjunction with ESSLI 2022. 
-You can find more information on the relevant [page](https://gdr-lift.loria.fr/bridges-and-gaps-workshop/).
+The first edition of the workshop on Bridges and Gaps between Formal and Computational Linguistics (BriGap) was held in conjunction with ESSLLI 2022. 
+You can find more information on the relevant [page](/2022/index).
 
 The BriGap-2 workshop is an offshoot of the monthly online [ILFC seminar](https://ilfc.github.io/), also organized by Timothée Bernard and Grégoire Winterstein.
 The online seminar is open to the general public.
