@@ -17,4 +17,4 @@ a successful [first edition at ESSLI in 2022](https://gdr-lift.loria.fr/bridges-
 and [a third iteration as a standalone event in Paris in 2026](2026/index), 
 we are now organising a fourth edition.
 
-BriGap branches out of the [monthly online seminar on the interactions between formal linguistic and computational linguistics (ILFC)](https://gdr-lift.loria.fr/monthy-online-ilfc-seminar/) organized since 2021.
+BriGap branches out of the [monthly online seminar on the interactions between formal linguistic and computational linguistics (ILFC)](https://ilfc.github.io/) organized since 2021.

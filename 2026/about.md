@@ -10,7 +10,7 @@ You can find more information on the relevant [page](https://gdr-lift.loria.fr/b
 The second edition of the workshop on Bridges and Gaps between Formal and Computational Linguistics (BriGap) was held in conjunction with IWCS 2025. 
 You can find more information on the relevant [page](2025/index).
 
-The BriGap-3 workshop is an offshoot of the monthly online [ILFC seminar](https://gdr-lift.loria.fr/monthy-online-ilfc-seminar/), also organized by Timothée Bernard and Grégoire Winterstein.
+The BriGap-3 workshop is an offshoot of the monthly online [ILFC seminar](https://ilfc.github.io/), also organized by Timothée Bernard and Grégoire Winterstein.
 The online seminar is open to the general public.
 
 The BriGap-3 workshop is funded by
